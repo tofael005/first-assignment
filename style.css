@@ -86,15 +86,32 @@ header{
 .my-plans-main-container{
     width: 1350px;
     height: 50vh;
-    background-color: aqua;
     margin: auto;
     margin-top: 200px;
 }
 .plan-heading-title{
     font-size: 40px;
+    font-weight: 800;
     text-align: center;
-    mar
 }
 .main-elements-container{
     display: flex;
+    margin-top: 90px;
+}
+.icons{
+    margin: auto;
+    text-align: center;
+}
+/* .icons img{
+    font-size: 100px;
+} */
+.icons h5{
+    font-size: 35px;
+    font-weight: 800;
+    padding: 20px 0px;
+}
+.icons h6{
+    font-size: 30px;
+    font-weight: 400;
+    color:#707070;
 }
