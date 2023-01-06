@@ -25,7 +25,6 @@ header{
 }
 .heading-description{
     font-size: 20px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 35px 0px;
     line-height: 1.5;
     text-align: right;
@@ -39,7 +38,6 @@ header{
     border-radius: 5px;
     border: 0;
 }
-
     /* main area section start  */
     /* <!-- Second section area start  --> */
 .feilure-section-container{
@@ -125,7 +123,6 @@ header{
 }  
 .maindset-elements{
     text-align: left;
-    padding-left: ;
 }
 .maindset-title{
     font-size: 50px;
@@ -164,6 +161,7 @@ footer{
 }
 .future-div-description{
     font-size: 22px;
+    line-height: 1.8;
     padding: 15px 0px;
     font-weight: 300;
     color: white;
